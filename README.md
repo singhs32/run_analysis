@@ -12,7 +12,7 @@ This submission includes the following files:
 
 - 'tidydata.txt': Final output
 
-- "un_analysis.R": R code for transforming raw data into tidy data
+- "run_analysis.R": R code for transforming raw data into tidy data
 
 
 Detailed explanation of how raw data was tranformed into tidy data
