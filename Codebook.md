@@ -15,6 +15,7 @@ Each row corresponds to a subject and activity combination.
 Rest of the columnus describe MEAN values for each of the following features
 
 1	tBodyAcc-mean()-X
+
 2	tBodyAcc-mean()-Y
 3	tBodyAcc-mean()-Z
 4	tBodyAcc-std()-X
